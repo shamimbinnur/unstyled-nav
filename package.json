@@ -1,6 +1,6 @@
 {
-  "name": "nav",
-  "version": "0.1.0",
+  "name": "unstyled-nav",
+  "version": "0.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
